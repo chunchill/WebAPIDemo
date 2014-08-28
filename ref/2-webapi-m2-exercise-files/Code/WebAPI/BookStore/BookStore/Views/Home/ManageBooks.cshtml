@@ -1,0 +1,76 @@
+﻿@model BookStore.Models.Book
+
+@{
+    ViewBag.Title = "Manage Books";
+}
+
+<h2>Manage Books</h2>
+
+<div>
+    <div>
+        <ul id="update-books" data-bind="foreach:books">
+            <li>
+                <div><span class="item">Book ID </span><span data-bind="text: $data.Id"></span></div>
+                <div><span class="item">Name&nbsp;&nbsp;</span> <input type="text" data-bind="value: $data.Name"/></div>
+                <div><span class="item">Author  </span><input type="text" data-bind="value: $data.Author" /></div>
+                <div><span class="item">Price ($)</span> <input type="text" data-bind="value: $data.Price" /></div>
+                <div>
+                    <input type="button" value="Update" data-bind="click: $root.update" />
+                    <input type="button" value="Delete Item" data-bind="click: $root.remove" />
+                </div>
+            </li>
+        </ul>
+    </div>
+    <hr />
+    <div>
+        <h2>Add New Book</h2>
+        <form id=addBook" data-bind="submit:create">
+         
+            <fieldset>
+                <legend>Contact</legend>
+                @Html.EditorForModel()
+                <p>
+                    <input type="submit" value="Save" />
+                </p>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+    <script type="text/javascript" src="@Url.Content("~/Scripts/knockout-3.0.0.js")"></script>
+    <script type="text/javascript">
+        function BooksViewModel() {
+            var self = this;
+            self.books = ko.observableArray();
+            var baseUri = '@ViewBag.ApiUrl';
+
+
+            self.create = function(formElement) {
+                // If valid, post the serialized form data to the web api
+              //  $(formElement).validate();
+               // if ($(formElement).valid()) {
+                    $.post(baseUri, $(formElement).serialize(), null, "json")
+                        .done(function(o) { self.books.push(o); });
+               // }
+            };
+
+            self.update = function(book) {
+                $.ajax({ type: "PUT", url: baseUri + '/' + book.Id, data: book });
+            };
+
+            self.remove = function(book) {
+                // First remove from the server, then from the UI
+                $.ajax({ type: "DELETE", url: baseUri + '/' + book.Id })
+                    .done(function() { self.books.remove(book); });
+            };
+
+            $.getJSON(baseUri, self.books);
+        }
+        $(document).ready(function () {
+            ko.applyBindings(new BooksViewModel());
+        });
+    </script>
+    }
+

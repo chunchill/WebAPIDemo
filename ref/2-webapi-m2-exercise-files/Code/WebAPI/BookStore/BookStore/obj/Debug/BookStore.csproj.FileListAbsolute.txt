@@ -1,0 +1,167 @@
+H:\Git\BookStore\BookStore\BookStore\bin\BookStore.dll
+H:\Git\BookStore\BookStore\BookStore\bin\BookStore.pdb
+H:\Git\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Http.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+H:\Git\BookStore\BookStore\BookStore\bin\WebGrease.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Http.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+H:\Git\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+H:\Git\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+H:\Git\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+H:\Git\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+H:\Git\BookStore\BookStore\BookStore\bin\EntityFramework.dll
+H:\Git\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+H:\Git\BookStore\BookStore\BookStore\bin\EntityFramework.xml
+H:\Git\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+H:\Git\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.Web.Common.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.Web.Mvc.dll
+H:\Git\BookStore\BookStore\BookStore\bin\WebActivator.dll
+H:\Git\BookStore\BookStore\BookStore\bin\WebApiContrib.IoC.Ninject.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.pdb
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.xml
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.Web.Common.pdb
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.Web.Common.xml
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.Web.Mvc.pdb
+H:\Git\BookStore\BookStore\BookStore\bin\Ninject.Web.Mvc.xml
+H:\Git\BookStore\BookStore\BookStore\bin\Microsoft.Data.Edm.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Microsoft.Data.OData.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Spatial.dll
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Http.OData.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Microsoft.Data.Edm.xml
+H:\Git\BookStore\BookStore\BookStore\bin\Microsoft.Data.OData.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Spatial.xml
+H:\Git\BookStore\BookStore\BookStore\bin\System.Web.Http.OData.xml
+H:\Git\BookStore\BookStore\BookStore\bin\de\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\es\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\it\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\de\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\es\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\fr\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\it\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ja\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ko\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ru\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\de\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\es\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\fr\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\it\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ja\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ko\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\ru\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\zh-Hans\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\zh-Hant\System.Spatial.resources.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Breeze.ContextProvider.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Breeze.ContextProvider.EF6.dll
+H:\Git\BookStore\BookStore\BookStore\bin\Breeze.WebApi2.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\BookStore.dll.config
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\BookStore.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\BookStore.pdb
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Antlr3.Runtime.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\EntityFramework.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Microsoft.Data.Edm.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Microsoft.Data.OData.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Newtonsoft.Json.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.Web.Common.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.Web.Mvc.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Spatial.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Helpers.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Http.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Http.OData.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Mvc.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Optimization.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Razor.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.WebPages.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\WebActivator.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\WebApiContrib.IoC.Ninject.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\WebGrease.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\EntityFramework.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Microsoft.Data.Edm.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Microsoft.Data.OData.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Newtonsoft.Json.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.pdb
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.Web.Common.pdb
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.Web.Common.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.Web.Mvc.pdb
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\Ninject.Web.Mvc.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Spatial.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Http.OData.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Optimization.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Helpers.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Http.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Mvc.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.Razor.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.WebPages.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\de\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\es\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\it\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\de\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\es\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\fr\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\it\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ja\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ko\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ru\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\de\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\es\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\fr\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\it\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ja\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ko\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\ru\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\zh-Hans\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\bin\zh-Hant\System.Spatial.resources.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+H:\Git\BookStore Phase 1\BookStore\BookStore\obj\Debug\BookStore.dll
+H:\Git\BookStore Phase 1\BookStore\BookStore\obj\Debug\BookStore.pdb
